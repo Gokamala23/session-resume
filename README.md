@@ -79,7 +79,3 @@ npm install
 npm test
 ```
 
-## License
-
-Distributed under the MIT license. See LICENSE for details.
-# session-resume
